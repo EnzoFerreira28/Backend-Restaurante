@@ -1,2 +1,2 @@
 # Backend-Restaurante
-Para Subir o Código do BackEnd
+Backend Java Spring Boot para construir a regra de negócio e funcionamento da gestão de um restaurante
